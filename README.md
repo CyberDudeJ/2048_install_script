@@ -6,3 +6,5 @@ Recommended to run as **root**, but is not required.
 
 Simply downloade the code, using git clone or another method, and run (if in linux): ``python3 get3048.py``
 This only works on linux.
+
+I am aware that 2048 is on the ``apt`` package manager already :) This is a quicker way to install it if you do not have apt.
